@@ -13,11 +13,10 @@ Qualifications: degree in Computer Programming and working professional in the f
 
 ## Course Description and Objectives
 ### Description
-*Help student feel confident of his ability to write small programs and websites
+* Help student feel confident of his ability to write small programs and websites
 
-*Prepare student with little prior programming experience or knowledge of computer science for an easier entry into a college for computer science or electrical engineering studies
-
-*Review the history and evolution of computer languages
+* Prepare student with little prior programming experience or knowledge of computer science for an easier entry into a college for computer science or electrical engineering studies
+* Review the history and evolution of computer languages
 
 *Learn how to design and test software
 
