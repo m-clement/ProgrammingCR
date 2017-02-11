@@ -2,8 +2,9 @@
 ###### Community Resource Department Requirement
 ## Course Information
 Course Title: Computer Programming
-Location of CR: family home: 2856 Briarcliff St, Ann Arbor, MI 48105
+
 Schedule: Monday, Wednesday, and Friday evenings from 7 to 8:30 pm with instructor, in addition to assigned student homework
+
 ## Instructor Information
 Instructor: Pierre Clement
 Qualifications: degree in Computer Programming and working professional in the field
