@@ -14,13 +14,21 @@ Qualifications: degree in Computer Programming and working professional in the f
 ## Course Description and Objectives
 ### Description
 *Help student feel confident of his ability to write small programs and websites
+
 *Prepare student with little prior programming experience or knowledge of computer science for an easier entry into a college for computer science or electrical engineering studies
+
 *Review the history and evolution of computer languages
+
 *Learn how to design and test software
+
 *Learn current practices of finding documentation and producing documentation
+
 *Explore and program with languages such as Java, javascript, and Python
+
 *Explore data modeling practices with relational databases and NoSQL engines
+
 *Explore careers in the field of computing
+
 ### Expectations
 Student will be able to
 *Know about the history of computer programming and the direction it may be taking
