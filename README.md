@@ -40,13 +40,14 @@ Student will be able to
 * Programming History
 	⋅⋅*Programming languages, from machine code to modern code
 		*Binary, Assembly, C, C++, Java, JavaScript, Python, .Net, and Go
-	⋅⋅*SDLC
-		*Traditional and Agile methodologies
-	⋅⋅*Source Code Management (SCM)
-		*Centralized vs distributed
-		*SVN and Git
-	⋅⋅*Assignment
-		*Write 3 complete user stories
+	⋅⋅* SDLC
+		* Traditional and Agile methodologies
+	⋅⋅* Source Code Management (SCM)
+		* Centralized vs distributed
+		* SVN and Git
+	⋅⋅* Assignment
+		* Write 3 complete user stories
+		
 ### Week 2
 Understanding Git
 Create a new repository
@@ -60,6 +61,7 @@ Collaborate with teammate
 Create branches
 Commit and push
 Merge pull requests
+
 ### Week 3
 Lab - Simple ‘hello world’ program
 Development environment setup
@@ -73,6 +75,7 @@ Clone repository in new directory
 Rerun environment
 Make modification
 Ensure change is in original directory
+
 ### Week 4
 Foundations of the web
 The Internet
@@ -87,6 +90,7 @@ Common tags: input, lines, paragraphs, divs, etc
 Real time clock in JavaScript
 Assignment
 Demonstrate how to modify an existing website with browser developer tools
+
 ### Week 5
 Bootstrap website ( http://getbootstrap.com/ )
 Git repository
@@ -97,6 +101,7 @@ HTML and CSS
 Write tests first: unit, integration, and live
 Assignment
 Redo website with Bootstrap
+
 ### Week 6
 Comparison of Computing Paradigms
 https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms 
@@ -112,6 +117,7 @@ HTML and CSS
 Write tests first: unit, integration, and live
 Assignment
 Redo website with Bootstrap
+
 ### Week 7
 Simple ‘calculator’ website in Java
 Git repository and documentation
@@ -120,6 +126,7 @@ HTML and CSS
 Write tests first: unit, integration, and live
 Assignment
 Redo website with Bootstrap
+
 ### Week 8 and 9
 Simple ‘notepad’ website in Java
 Git repository and documentation
@@ -135,6 +142,7 @@ Update website to support those date fields to notes
 
 ### Week 10
 Security
+
 ### Week ?
 Design and build a product showcase website (cards)
 
