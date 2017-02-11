@@ -21,6 +21,7 @@ Qualifications: degree in Computer Programming and working professional in the f
 * Explore and program with languages such as Java, javascript, and Python
 * Explore data modeling practices with relational databases and NoSQL engines
 * Explore careers in the field of computing
+
 ### Expectations
 Student will be able to
 
@@ -38,14 +39,24 @@ Student will be able to
 ## Week By Week Description
 ### Week 1
 * Programming History
+
 	⋅⋅* Programming languages, from machine code to modern code
+	
 	⋅⋅⋅ Binary, Assembly, C, C++, Java, JavaScript, Python, .Net, and Go
+	
 	⋅⋅* SDLC
+	
 	⋅⋅⋅ Traditional and Agile methodologies
+	
+	
 	⋅⋅* Source Code Management (SCM)
+	
 	⋅⋅⋅ Centralized vs distributed
+	
 	⋅⋅⋅ SVN and Git
+	
 	⋅⋅* Assignment
+	
 	⋅⋅⋅ Write 3 complete user stories
 		
 ### Week 2
