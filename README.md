@@ -39,14 +39,14 @@ Student will be able to
 ### Week 1
 * Programming History
 	⋅⋅* Programming languages, from machine code to modern code
-	⋅⋅⋅Binary, Assembly, C, C++, Java, JavaScript, Python, .Net, and Go
+	⋅⋅⋅ Binary, Assembly, C, C++, Java, JavaScript, Python, .Net, and Go
 	⋅⋅* SDLC
-	⋅⋅⋅Traditional and Agile methodologies
+	⋅⋅⋅ Traditional and Agile methodologies
 	⋅⋅* Source Code Management (SCM)
-	⋅⋅⋅Centralized vs distributed
-	⋅⋅⋅SVN and Git
+	⋅⋅⋅ Centralized vs distributed
+	⋅⋅⋅ SVN and Git
 	⋅⋅* Assignment
-	⋅⋅⋅Write 3 complete user stories
+	⋅⋅⋅ Write 3 complete user stories
 		
 ### Week 2
 Understanding Git
