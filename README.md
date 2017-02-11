@@ -14,45 +14,39 @@ Qualifications: degree in Computer Programming and working professional in the f
 ## Course Description and Objectives
 ### Description
 * Help student feel confident of his ability to write small programs and websites
-
 * Prepare student with little prior programming experience or knowledge of computer science for an easier entry into a college for computer science or electrical engineering studies
 * Review the history and evolution of computer languages
-
-*Learn how to design and test software
-
-*Learn current practices of finding documentation and producing documentation
-
-*Explore and program with languages such as Java, javascript, and Python
-
-*Explore data modeling practices with relational databases and NoSQL engines
-
-*Explore careers in the field of computing
-
+* Learn how to design and test software
+* Learn current practices of finding documentation and producing documentation
+* Explore and program with languages such as Java, javascript, and Python
+* Explore data modeling practices with relational databases and NoSQL engines
+* Explore careers in the field of computing
 ### Expectations
 Student will be able to
-*Know about the history of computer programming and the direction it may be taking
-*Write small programs and websites from start to finish with little to no assistance
-*Write and use recipes when writing software
-*Design with an Object-Oriented approach
-*Use http://git.com for all homework assignments and deliverables
-*Find example code and solutions to problems
-*Write tests before writing production code
-*Use NetBeans and Spring Boot to write software
-*Be comfortable writing website backends with Java and MongoDB
-*Be comfortable writing website frontends with Django, HTML, and JavaScript
-*Understand the various computing career directions
+
+* Know about the history of computer programming and the direction it may be taking
+* Write small programs and websites from start to finish with little to no assistance
+* Write and use recipes when writing software
+* Design with an Object-Oriented approach
+* Use http://git.com for all homework assignments and deliverables
+* Find example code and solutions to problems
+* Write tests before writing production code
+* Use NetBeans and Spring Boot to write software
+* Be comfortable writing website backends with Java and MongoDB
+* Be comfortable writing website frontends with Django, HTML, and JavaScript
+* Understand the various computing career directions
 ## Week By Week Description
 ### Week 1
-*Programming History
-	⋅⋅*Programming languages, from machine code to modern code
-		*Binary, Assembly, C, C++, Java, JavaScript, Python, .Net, and Go
-	⋅⋅*SDLC
-		*Traditional and Agile methodologies
-	⋅⋅*Source Code Management (SCM)
-		*Centralized vs distributed
-		*SVN and Git
-	⋅⋅*Assignment
-		*Write 3 complete user stories
+* Programming History
+	⋅⋅* Programming languages, from machine code to modern code
+		* Binary, Assembly, C, C++, Java, JavaScript, Python, .Net, and Go
+	⋅⋅* SDLC
+		* Traditional and Agile methodologies
+	⋅⋅* Source Code Management (SCM)
+		* Centralized vs distributed
+		* SVN and Git
+	⋅⋅* Assignment
+		* Write 3 complete user stories
 ### Week 2
 Understanding Git
 Create a new repository
