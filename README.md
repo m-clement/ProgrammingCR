@@ -51,18 +51,18 @@ Student will be able to
     * Write 3 complete user stories
     
 ### Week 2
-Understanding Git
-Create a new repository
-Clone an existing repository
-Add, commit, and push
-Branches
-Create a pull request
-Assignment
-Create a new repository
-Collaborate with teammate
-Create branches
-Commit and push
-Merge pull requests
+- Understanding Git
+- Create a new repository
+- Clone an existing repository
+- Add, commit, and push
+- Branches
+- Create a pull request
+- Assignment
+	* Create a new repository
+	* Collaborate with teammate
+	* Create branches
+	* Commit and push
+	* Merge pull requests
 
 ### Week 3
 Lab - Simple ‘hello world’ program
