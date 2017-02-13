@@ -65,82 +65,82 @@ Student will be able to
 	* Merge pull requests
 
 ### Week 3
-Lab - Simple ‘hello world’ program
-Development environment setup
-Git repository
-NetBeans
-Write tests
-Implement in Java
-Implement in Python
-Assignment
-Clone repository in new directory
-Rerun environment
-Make modification
-Ensure change is in original directory
+- Lab - Simple ‘hello world’ program
+	* Development environment setup
+	* Git repository
+	* NetBeans
+	* Write tests
+	* Implement in Java
+	* Implement in Python
+	* Assignment
+		- Clone repository in new directory
+		- Rerun environment
+		- Make modification
+		- Ensure change is in original directory
 
 ### Week 4
-Foundations of the web
-The Internet
-HTTP protocol
-Browser
-Assignment
-Identify 5 GETs and 5 POSTs on the web
-Foundations of web pages
-Git repository
-Simple static HTML and CSS website
-Common tags: input, lines, paragraphs, divs, etc
-Real time clock in JavaScript
-Assignment
-Demonstrate how to modify an existing website with browser developer tools
+- Foundations of the web
+	* The Internet
+	* HTTP protocol
+	* Browser
+	* Assignment
+		- Identify 5 GETs and 5 POSTs on the web
+- Foundations of web pages
+	* Git repository
+	* Simple static HTML and CSS website
+	* Common tags: input, lines, paragraphs, divs, etc
+	* Real time clock in JavaScript
+	* Assignment
+		- Demonstrate how to modify an existing website with browser developer tools
 
 ### Week 5
-Bootstrap website ( http://getbootstrap.com/ )
-Git repository
-Real time clock in JavaScript
-Simple ‘hello world’ website in Java
-Git repository and documentation
-HTML and CSS
-Write tests first: unit, integration, and live
-Assignment
-Redo website with Bootstrap
+- Bootstrap website ( http://getbootstrap.com/ )
+	* Git repository
+	* Real time clock in JavaScript
+- Simple ‘hello world’ website in Java
+	* Git repository and documentation
+	* HTML and CSS
+	* Write tests first: unit, integration, and live
+	* Assignment
+		- Redo website with Bootstrap
 
 ### Week 6
-Comparison of Computing Paradigms
-https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms 
-Structured
-Object-Orientation
-Functional
-Assignment 
-Find and critic some code on git
-Simple ‘calculator’ website in Python
-Git repository and documentation
-Object-oriented model
-HTML and CSS
-Write tests first: unit, integration, and live
-Assignment
-Redo website with Bootstrap
+- Comparison of Computing Paradigms
+	* https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms 
+	* Structured
+	* Object-Orientation
+	* Functional
+	* Assignment 
+		- Find and critic some code on git
+- Simple ‘calculator’ website in Python
+	* Git repository and documentation
+	* Object-oriented model
+	* HTML and CSS
+	* Write tests first: unit, integration, and live
+	* Assignment
+		- Redo website with Bootstrap
 
 ### Week 7
-Simple ‘calculator’ website in Java
-Git repository and documentation
-Object-oriented model
-HTML and CSS
-Write tests first: unit, integration, and live
-Assignment
-Redo website with Bootstrap
+- Simple ‘calculator’ website in Java
+	* Git repository and documentation
+	* Object-oriented model
+	* HTML and CSS
+	* Write tests first: unit, integration, and live
+	* Assignment
+		- Redo website with Bootstrap
 
 ### Week 8 and 9
-Simple ‘notepad’ website in Java
-Git repository and documentation
-HTML and CSS
-Object-oriented model
-Web APIs
-NoSQL database with MongoDB or OrientDB
-Write tests first: unit, integration, and live
-Assignment
-Update tests to support date fields (created and last updated) to notes
-Ensure that existing notes still work
-Update website to support those date fields to notes
+- Simple ‘notepad’ website in Java
+	* Git repository and documentation
+	* HTML and CSS
+	* Object-oriented model
+	* Web APIs
+	* NoSQL database with MongoDB or OrientDB
+	* Write tests first: unit, integration, and live
+	* Assignment
+		- Update tests to support date fields (created and last updated) to notes
+		- Ensure that existing notes still work
+		- Update website to support those date fields to notes
 
 ### Week 10
 Security
