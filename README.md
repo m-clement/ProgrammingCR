@@ -39,6 +39,8 @@ Student will be able to
 
 ## Week By Week Description
 
+We're hoping to pursue the following objectives in sequence.
+
 ### Objective: Knowledge of Programming History
 
 - Programming languages, from machine code to modern code
@@ -51,7 +53,7 @@ Student will be able to
  - Assignment
   * Write 3 complete user stories
 
-### Week 2
+### Objective: Git and GitHub basics
 - Understanding Git
 - Create a new repository
 - Clone an existing repository
@@ -65,7 +67,7 @@ Student will be able to
 	* Commit and push
 	* Merge pull requests
 
-### Week 3
+### Objective: First program coded and on GitHub
 - Lab - Simple ‘hello world’ program
 	* Development environment setup
 	* Git repository
