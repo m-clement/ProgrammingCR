@@ -233,4 +233,7 @@ https://www.youtube.com/watch?v=cNN_tTXABUA
 https://en.wikipedia.org/wiki/Dennis_Ritchie
 
 
+Links of interest
+
+https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
