@@ -66,13 +66,16 @@ We're hoping to pursue the following objectives in sequence.
 	* Create branches
 	* Commit and push
 	* Merge pull requests
-
+- Assigment Details
+	* Create a branch with 'git checkout -b my-first-branch'
+	* Reformat Week 4 as an objective
+	* Put the result of that to a git hub Pull Request
+	* CR instructor will accecpt those changes
+	
 >We're currently in the vicinity of here
 
-
 ### Objective: First program coded and on GitHub
-	
-	
+
 - Lab - Simple ‘hello world’ program
 	* Development environment setup
 	* Git repository
