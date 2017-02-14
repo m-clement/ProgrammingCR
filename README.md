@@ -36,7 +36,9 @@ Student will be able to
 * Be comfortable writing website backends with Java and MongoDB
 * Be comfortable writing website frontends with Django, HTML, and JavaScript
 * Understand the various computing career directions
+
 ## Week By Week Description
+
 ### Week 1
 * Programming History
 
