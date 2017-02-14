@@ -67,7 +67,12 @@ We're hoping to pursue the following objectives in sequence.
 	* Commit and push
 	* Merge pull requests
 
+>We're currently in the vicinity of here
+
+
 ### Objective: First program coded and on GitHub
+	
+	
 - Lab - Simple ‘hello world’ program
 	* Development environment setup
 	* Git repository
