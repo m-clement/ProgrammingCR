@@ -66,6 +66,9 @@ Student will be able to
 	* Commit and push
 	* Merge pull requests
 
+>We're currently in the vicinity of here
+	
+	
 ### Week 3
 - Lab - Simple ‘hello world’ program
 	* Development environment setup
