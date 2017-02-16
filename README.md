@@ -69,7 +69,7 @@ We're hoping to pursue the following objectives in sequence.
 - Assigment Details
 	* Create a branch with 'git checkout -b my-first-branch'
 	* Reformat Week 4 as an objective
-	* Put the result of that to a github Pull Request
+	* Put the result of that to a GitHub Pull Request
 	* CR instructor will accecpt those changes
 - Various git commands we've learned
 	* git clone // get a copy of a repo to a new directory
