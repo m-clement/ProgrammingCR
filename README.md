@@ -69,7 +69,7 @@ We're hoping to pursue the following objectives in sequence.
 - Assigment Details
 	* Create a branch with 'git checkout -b my-first-branch'
 	* Reformat Week 4 as an objective
-	* Put the result of that to a git hub Pull Request
+	* Put the result of that to a github Pull Request
 	* CR instructor will accecpt those changes
 	
 >We're currently in the vicinity of here
@@ -89,8 +89,7 @@ We're hoping to pursue the following objectives in sequence.
 		- Make modification
 		- Ensure change is in original directory
 
-### Week 4
-## Introduction to the Web
+### Introduction to the Web
 - Foundations of the web
 	* The Internet
 	* HTTP protocol
