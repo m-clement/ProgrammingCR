@@ -53,7 +53,7 @@ We're hoping to pursue the following objectives in sequence.
  - Assignment
   * Write 3 complete user stories
 
-### Objective: Git and GitHub basics
+### Objective: Git and GitHub basics\
 - Understanding Git
 - Create a new repository
 - Clone an existing repository
@@ -90,6 +90,7 @@ We're hoping to pursue the following objectives in sequence.
 		- Ensure change is in original directory
 
 ### Week 4
+## Introduction to the Web
 - Foundations of the web
 	* The Internet
 	* HTTP protocol
