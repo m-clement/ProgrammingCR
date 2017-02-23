@@ -89,7 +89,7 @@ We're hoping to pursue the following objectives in sequence.
 		- Make modification
 		- Ensure change is in original directory
 
-### Week 4
+### Objective: 
 - Foundations of the web
 	* The Internet
 	* HTTP protocol
@@ -104,7 +104,7 @@ We're hoping to pursue the following objectives in sequence.
 	* Assignment
 		- Demonstrate how to modify an existing website with browser developer tools
 
-### Week 5
+### Objective: 
 - Bootstrap website ( http://getbootstrap.com/ )
 	* Git repository
 	* Real time clock in JavaScript
@@ -115,7 +115,7 @@ We're hoping to pursue the following objectives in sequence.
 	* Assignment
 		- Redo website with Bootstrap
 
-### Week 6
+### Objective: 
 - Comparison of Computing Paradigms
 	* https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms 
 	* Structured
@@ -131,7 +131,7 @@ We're hoping to pursue the following objectives in sequence.
 	* Assignment
 		- Redo website with Bootstrap
 
-### Week 7
+### Objective: 
 - Simple ‘calculator’ website in Java
 	* Git repository and documentation
 	* Object-oriented model
@@ -140,7 +140,7 @@ We're hoping to pursue the following objectives in sequence.
 	* Assignment
 		- Redo website with Bootstrap
 
-### Week 8 and 9
+### Objective: and 
 - Simple ‘notepad’ website in Java
 	* Git repository and documentation
 	* HTML and CSS
@@ -153,10 +153,10 @@ We're hoping to pursue the following objectives in sequence.
 		- Ensure that existing notes still work
 		- Update website to support those date fields to notes
 
-### Week 10
+### Objective: 
 Security
 
-### Week ?
+### Objective: 
 Design and build a product showcase website (cards)
 
     A week-by-week description of what the student will be doing. List the topics to be covered, activities, assignments, quizzes, and/or tests, If the course is a graduation requirement, note which content expectations will be addressed each week.
