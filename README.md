@@ -50,7 +50,7 @@ We're hoping to pursue the following objectives in sequence.
 - Source Code Management (SCM)
   * Centralized vs distributed
   * SVN and Git
- - Assignment
+- Assignment
   * Write 3 complete user stories
 
 ### Objective 2: Git and GitHub basics
