@@ -41,7 +41,7 @@ Student will be able to
 
 We're hoping to pursue the following objectives in sequence.
 
-### Objective: Knowledge of Programming History
+### Objective 1: Knowledge of Programming History
 
 - Programming languages, from machine code to modern code
   * Binary, Assembly, C, C++, Java, JavaScript, Python, .Net, and Go
@@ -53,7 +53,7 @@ We're hoping to pursue the following objectives in sequence.
  - Assignment
   * Write 3 complete user stories
 
-### Objective: Git and GitHub basics
+### Objective 2: Git and GitHub basics
 - Understanding Git
 - Create a new repository
 - Clone an existing repository
@@ -69,12 +69,24 @@ We're hoping to pursue the following objectives in sequence.
 - Assigment Details
 	* Create a branch with 'git checkout -b my-first-branch'
 	* Reformat Week 4 as an objective
-	* Put the result of that to a git hub Pull Request
+	* Put the result of that to a GitHub Pull Request
 	* CR instructor will accecpt those changes
+- Various git commands we've learned
+	* git clone // get a copy of a repo to a new directory
+	* git status // use frequently to see the status of your directory / repo
+	* git checkout   // instructs git to change the current view to a different version, or branch, ...
+	* git checkout -b // instructs git to start work in a new branch
+	* git pull // gets fresh version from origin
+	* git diff // to identify the local changes before staging them
+	* git add // adds file to staging area
+	* git commit // commit to your staged changes
+	* git push // push changes to origin
+	* GitHub squash and merge
+	* git <command> --help // gives us help on that command
 	
 >We're currently in the vicinity of here
 
-### Objective: First program coded and on GitHub
+### Objective 3: First program coded and on GitHub
 
 - Lab - Simple ‘hello world’ program
 	* Development environment setup
@@ -89,7 +101,7 @@ We're hoping to pursue the following objectives in sequence.
 		- Make modification
 		- Ensure change is in original directory
 
-### Objective: 
+### Objective 4: Introduction to the Web
 - Foundations of the web
 	* The Internet
 	* HTTP protocol
@@ -104,7 +116,7 @@ We're hoping to pursue the following objectives in sequence.
 	* Assignment
 		- Demonstrate how to modify an existing website with browser developer tools
 
-### Objective: 
+### Objective 5: 
 - Bootstrap website ( http://getbootstrap.com/ )
 	* Git repository
 	* Real time clock in JavaScript
@@ -115,7 +127,7 @@ We're hoping to pursue the following objectives in sequence.
 	* Assignment
 		- Redo website with Bootstrap
 
-### Objective: 
+### Objective 6: 
 - Comparison of Computing Paradigms
 	* https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms 
 	* Structured
@@ -131,7 +143,7 @@ We're hoping to pursue the following objectives in sequence.
 	* Assignment
 		- Redo website with Bootstrap
 
-### Objective: 
+### Objective 7: 
 - Simple ‘calculator’ website in Java
 	* Git repository and documentation
 	* Object-oriented model
@@ -140,7 +152,7 @@ We're hoping to pursue the following objectives in sequence.
 	* Assignment
 		- Redo website with Bootstrap
 
-### Objective: and 
+### Objective 8: 
 - Simple ‘notepad’ website in Java
 	* Git repository and documentation
 	* HTML and CSS
