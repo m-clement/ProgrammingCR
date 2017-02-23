@@ -16,7 +16,8 @@
 	* Reformat Week 4 as an objective
 	* Put the result of that to a GitHub Pull Request
 	* CR instructor will accecpt those changes
-- Various git commands we've learned
+	
+#### Various git commands we've learned
 	* git clone // get a copy of a repo to a new directory
 	* git status // use frequently to see the status of your directory / repo
 	* git checkout   // instructs git to change the current view to a different version, or branch, ...
