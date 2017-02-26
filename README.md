@@ -77,9 +77,9 @@ We're hoping to pursue the following objectives in sequence.
 - Lab - Simple ‘hello world’ program
 	* Development environment setup
 	* Git repository
-	* NetBeans  ** We're currently here **
+	* NetBeans
 	* Write tests
-	* Implement in Java
+	* Implement in Java  ** We're currently here **
 	* Implement in Python
 	* Assignment
 		- Clone repository in new directory
