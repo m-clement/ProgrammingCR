@@ -1,30 +1,32 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package helloworld;
 
-/**
- *
- * @author miguel
- */
 public class HelloWorld {
 
-    /**
-     * @param args the command line arguments
-     */
+    public enum LANGUAGE {
+        FR, EN
+    };
+
     public static void main(String[] args) {
-        // TODO code application logic here
-        
-        
     }
-    
-    public String sayHello(){
+
+    public String sayHello(LANGUAGE... lang) {
+        if (lang != null && lang.length > 0 && lang[0].equals(LANGUAGE.FR)) {
+            return "Bonjour tout le monde";
+        }
         return "hello world";
     }
-   
-    public String sayHello(String name){
+
+    public String sayHello(String name, LANGUAGE... lang) {
+        if (lang != null && lang.length > 0 && lang[0].equals(LANGUAGE.FR)) {
+            return "Bonjour " + name;
+        }
         return "hello " + name;
+    }
+
+    public String sayHello(String name, String temperature, LANGUAGE... lang) {
+        if (lang != null && lang.length > 0 && lang[0].equals(LANGUAGE.FR)) {
+            return "Bonjour " + name+ ". Il fait " + temperature + " aujourd'hui";
+        }
+        return "Hello " + name+ ". It is " + temperature + " today.";
     }
 }
