@@ -11,4 +11,8 @@
   * is not necessarily easier to understand. Whether it is compiled or not has no bearing on how easy the source is to understand
   * may let you run until you hit a runtime compilation error
   * in other words, an intepreted language may compile, but at runtime
-- 
+
+- Test-Driven Development (TDD) helps us
+  * define production code by prototyping them first
+  * add more production code by further prototyping more tests
+  * preserve existing production code since the tests remain in place
