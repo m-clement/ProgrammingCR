@@ -102,11 +102,11 @@ public class HelloWorldTests {
 
     @Test
     public void given_a_blank_or_blank_name_and_a_temperature_should_say_hello_to_that_name_and_temperature_in_english() {
-        String expected = "Hello Pierre. It is cold today.";
+        String expected = "Hello. It is cold today.";
         String result = program.sayHello(null, "cold");
         assertEquals(expected, result);
 
-        String expected2 = "Hello Miguel. It is hot today.";
+        String expected2 = "Hello. It is hot today.";
         String result2 = program.sayHello("", "hot");
         assertEquals(expected2, result2);
     }
