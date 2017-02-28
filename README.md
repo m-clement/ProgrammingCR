@@ -79,7 +79,9 @@ We're hoping to pursue the following objectives in sequence.
 	* Git repository
 	* NetBeans
 	* Write tests
-	* Implement in Java  ** We're currently here **
+	* Implement in Java
+		 * Operators ** We're currently here **
+		 * Method structures, signatures, ...
 	* Implement in Python
 	* Assignment
 		- Clone repository in new directory
