@@ -1,7 +1,8 @@
 # Objective 3: First program coded and on GitHub
 
-References
+References 
 - https://www.youtube.com/watch?v=cNN_tTXABUA
+- https://www.tutorialspoint.com/java/java_basic_operators.htm
 
 ## Various things we've learned
 - NetBeans is the Integrated Development Environment (IDE) for this project

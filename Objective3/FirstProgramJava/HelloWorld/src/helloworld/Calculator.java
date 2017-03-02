@@ -33,9 +33,9 @@ public class Calculator {
         if (denominator == 0) {
             return Double.MAX_VALUE;
         }
-        return numerator / denominator;   
+        return numerator / denominator;
     }
-    
+
     public static void main(String[] args) {
         System.out.println(Character.BYTES);
         System.out.println(Short.MAX_VALUE);
@@ -44,9 +44,21 @@ public class Calculator {
         System.out.println(Double.MAX_VALUE);
         System.out.println(Float.MAX_VALUE);
 
-        System.out.println(2l/3l);
-        System.out.println(3l/2l);
-        System.out.println(2f/3f);
-        System.out.println(3d/2d);
+        System.out.println(2l / 3l);
+        System.out.println(3l / 2l);
+        System.out.println(2f / 3f);
+        System.out.println(3d / 2d);
+    }
+
+    int modulus(int a, int b) {
+        return b % a;
+    }
+
+    int decrement(int i) {
+        return --i;
+    }
+
+    int increment(int i) {
+        return ++i;
     }
 }

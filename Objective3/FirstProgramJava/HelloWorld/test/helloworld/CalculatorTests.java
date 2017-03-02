@@ -113,9 +113,52 @@ public class CalculatorTests {
 
     @Test
     public void dividing_1d_by_0d_should_equal_infinityD() {
-        double expected = Double.MAX_VALUE;
-        double result = calculator.divide(1d, 0d);
+        Double expected = Double.MAX_VALUE;
+        Double result = calculator.divide(1d, 0d);
 
         assertEquals(expected, result);
+    }
+
+    boolean myboolean; // primary type
+
+    @Test
+    public void uninitialized_boolean_should_be_false() {
+        assertEquals(false, myboolean);
+    }
+
+    Boolean myBoolean; // object type
+
+    @Test
+    public void uninitialized_Boolean_should_be_null() {
+        assertEquals(null, myBoolean);
+    }
+
+    int myint; // primary type
+
+    @Test
+    public void uninitialized_int_should_be_0() {
+        assertEquals(0, myint);
+    }
+
+    Integer myInteger; // object type
+
+    @Test
+    public void uninitialized_Int_should_be_null() {
+        assertEquals(null, myInteger);
+    }
+
+    @Test
+    public void modulus_19_100_should_be_5() {
+        assertEquals(5, calculator.modulus(19, 100));
+    }
+
+    @Test
+    public void decrement() {
+        assertEquals(8, calculator.decrement(9));
+    }
+
+    @Test
+    public void increment() {
+        assertEquals(10, calculator.increment(9));
     }
 }
