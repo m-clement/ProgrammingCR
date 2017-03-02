@@ -42,7 +42,6 @@ Student will be able to
 We're hoping to pursue the following objectives in sequence.
 
 ### Objective 1: Knowledge of Programming History
-
 - Programming languages, from machine code to modern code
   * Binary, Assembly, C, C++, Java, JavaScript, Python, .Net, and Go
 - SDLC 
@@ -73,7 +72,6 @@ We're hoping to pursue the following objectives in sequence.
 	* CR instructor will accecpt those changes
 
 ### Objective 3: First program coded and on GitHub
-
 - Lab - Simple ‘hello world’ program
 	* Development environment setup
 	* Git repository
@@ -104,7 +102,7 @@ We're hoping to pursue the following objectives in sequence.
 	* Assignment
 		- Demonstrate how to modify an existing website with browser developer tools
 
-### Objective 5: 
+### Objective 5: Web Site Development
 - Bootstrap website ( http://getbootstrap.com/ )
 	* Git repository
 	* Real time clock in JavaScript
@@ -115,7 +113,7 @@ We're hoping to pursue the following objectives in sequence.
 	* Assignment
 		- Redo website with Bootstrap
 
-### Objective 6: 
+### Objective 6: Server-Side Development
 - Comparison of Computing Paradigms
 	* https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms 
 	* Structured
@@ -131,7 +129,9 @@ We're hoping to pursue the following objectives in sequence.
 	* Assignment
 		- Redo website with Bootstrap
 
-### Objective 7: 
+### Objective 7: Complete Web Site Development
+Design and build websites
+
 - Simple ‘calculator’ website in Java
 	* Git repository and documentation
 	* Object-oriented model
@@ -140,7 +140,6 @@ We're hoping to pursue the following objectives in sequence.
 	* Assignment
 		- Redo website with Bootstrap
 
-### Objective 8: 
 - Simple ‘notepad’ website in Java
 	* Git repository and documentation
 	* HTML and CSS
@@ -153,29 +152,20 @@ We're hoping to pursue the following objectives in sequence.
 		- Ensure that existing notes still work
 		- Update website to support those date fields to notes
 
-### Objective: 
-Security
-
-### Objective: 
-Design and build a product showcase website (cards)
-
-    A week-by-week description of what the student will be doing. List the topics to be covered, activities, assignments, quizzes, and/or tests, If the course is a graduation requirement, note which content expectations will be addressed each week.
 
 ## Texts, Books, Readings, Materials
-W3 Schools
-Wikipedia
-Spring website
-
-Use of Mac OS and Windows 10
-
-Consider for specific assignments where a book, resource, or etc is absolutely needed.
+- W3 Schools https://www.w3schools.com/
+- Wikipedia https://www.wikipedia.org/ 
+- Spring website https://spring.io/
+- Use of Mac OS and Windows 10
 
 ## Grading / Evaluation
-Need to establish a few goals (2-5) and rate appropriately.
 
-Need this?
-Who may I contact for guidance?
-Who’s the CR Monitor? Craig Levin
+A few goals (2-5) and rate appropriately. TBD - more to be established.
+
+Grading will be based on the following established goals:
+- Ability to get started on a software product alone
+- Ability to break down product development via test-driven-development to protect production code
 
 
     If you have chosen a letter grade option, you must include a grading rubric. Clearly describe what needs to be done to earn an A, B, etc.
@@ -184,65 +174,9 @@ Who’s the CR Monitor? Craig Levin
 
 ## Documentation of Work
 
-    All students must submit evidence of their work to the CR Monitor several times over the course of the semester.
-    Explain what the student will be showing to the CR Monitor and how they will get it to the CR Monitor.
+	The whole contents of the work over the semester is entered and saved within git at https://github.com/m-clement/ProgrammingCR.
+	This evidence can be reviewed at any time during the course of the semester.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Week 1
-
-Programming History
-
-Programming languages, from machine code to modern code
-
-Binary, Assembly, C, C++, Java, JavaScript, Python, .Net, and Go
-
-SDLC
-
-Traditional and Agile
-
-Source Code Management (SCM)
-
-Centralized vs distributed
-
-SVN and Git
-
-Assignment
-
-Write 3 complete user stories
-
-
-
-
-
-
-
-https://en.wikipedia.org/wiki/Charles_Babbage
-
-https://www.youtube.com/watch?v=cNN_tTXABUA
-
-https://en.wikipedia.org/wiki/Dennis_Ritchie
-
-
-Links of interest
-
-https://help.github.com/articles/basic-writing-and-formatting-syntax/
+### Checkpoint 1 - before or on March 03, 2017
+- Miguel will be sharing his progress with the CR Monitor, Craig Levin, ... when and how ...
 

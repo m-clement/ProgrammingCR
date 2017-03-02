@@ -1,6 +1,9 @@
-### Objective 3: First program coded and on GitHub
+# Objective 3: First program coded and on GitHub
 
-#### Various things we've learned
+References
+- https://www.youtube.com/watch?v=cNN_tTXABUA
+
+## Various things we've learned
 - NetBeans is the Integrated Development Environment (IDE) for this project
 - Java is a compiled language, which means that humans work with the source which needs to be compiled for the computer to run
 - Python, on the other hand, is a intepreted language, which means that it does not need to be compiled for the computer to run it
