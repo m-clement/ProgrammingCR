@@ -21,4 +21,4 @@ References
   * add more production code by further prototyping more tests
   * preserve existing production code since the tests remain in place
 
-- 
+- Python is much more picky about spaces and tabs, and does not require semi colons at the end of each statement. Java is compiled and Python is interpreted, meaning Python runs quicker, but not necessarily faster, but a small error requires overlooking the entire program again. Java requires more steps to run, since it needs to compile.
