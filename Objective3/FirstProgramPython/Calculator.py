@@ -1,9 +1,8 @@
-class HelloWorld:
+class Calculator:
 
-    def sayHello(self):
-        return 'Hello World'
+    def subtracts(self, left, right):
+        return left - right
         
-		
     # def test_given_a_single_name_should_say_hello_to_that_name_in_english(self):
         # expected = "hello Pierre"
         # result = program.sayHello("Pierre")
