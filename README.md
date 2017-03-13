@@ -78,13 +78,14 @@ We're hoping to pursue the following objectives in sequence.
 	* NetBeans
 	* Write tests
 	* Implement in Java
-		 * Operators ** We're currently here **
+		 * Operators 
 		 * Method structures, signatures, ...
 	* Implement in Python
+	* ** We're currently here **
 	* Assignment
 		- Clone repository in new directory
 		- Rerun environment
-		- Make modification
+		- Make a couple of modifications
 		- Ensure change is in original directory
 
 ### Objective 4: Introduction to the Web
