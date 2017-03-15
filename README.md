@@ -88,13 +88,13 @@ We're hoping to pursue the following objectives in sequence.
 		- Ensure change is in original directory
 
 ### Objective 4: Introduction to the Web
-- ** We're currently here **
 - Foundations of the web
 	* The Internet
 	* HTTP protocol
 	* Browser
 	* Assignment
 		- Identify 5 GETs and 5 POSTs on the web
+- ** We're currently here **
 - Foundations of web pages - Hands On Lab
 	* Git repository
 	* Simple static HTML and CSS website
