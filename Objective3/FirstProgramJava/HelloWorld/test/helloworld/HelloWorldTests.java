@@ -16,6 +16,7 @@ public class HelloWorldTests {
 
     @BeforeClass
     public static void setUpClass() {
+        System.out.println("class is about to be instantiated");
     }
 
     @AfterClass
