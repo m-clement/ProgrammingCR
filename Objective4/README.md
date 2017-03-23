@@ -27,6 +27,9 @@ When we inspect the page and open the inspector, we notice that in the network t
 *https://www.rolex.com/content/rolexcom/en/_jcr_content/par/retailer_banner.nocache.html
 *https://www.rolex.com/content/rolexcom/en/_jcr_content/par/banner_push_fav_watc.nocache.html
 *https://www.rolex.com/content/campaigns/rolexcom/global/homepage/heroslideshow/usa/_jcr_content/par.en.disabled.html
+*https://help.steampowered.com/en/ Upon analysing the inspect element, 36 GETs were presented. The purpose of these were style sheets, loading images, fonts, and scripts. In total it took the page nearly 4 seconds(3.84) to fully load.
 
 POST:
 https://www.thurstonplayers.org/cast/cast?destination=node/74 is the cast login page, which requires username and password. Typing anything in this page reveals that post is used in the inspector
+https://store.steampowered.com/login/getrsakey/ This is an rsa key behind the scenes, and we don't know anything about it. Likely for security because the name suggests GET rsa key.
+https://store.steampowered.com/login/dologin/ is the account login page, which also requires a username and password. Typing into the two bars shows a post in the inspector.
