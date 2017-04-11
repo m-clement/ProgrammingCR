@@ -9,12 +9,67 @@ and open the template in the editor.
         <title>Static Website</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-       <link href="xyz.css" rel="stylesheet" type="text/css" />
+        <link href="xyz.css" rel="stylesheet" type="text/css" />
+        <script>
+            function startTime() {
+                var today = new Date();
+                var h = today.getHours();
+                var m = today.getMinutes();
+                var s = today.getSeconds();
+                m = checkTime(m);
+                s = checkTime(s);
+                document.getElementById('clock').innerHTML =
+                        h + ":" + m + ":" + s;
+                var t = setTimeout(startTime, 500);
+            }
+            function checkTime(i) {
+                if (i < 10) {
+                    i = "0" + i
+                }
+                ;  // add zero in front of numbers < 10
+                return i;
+            }
+            function toggleClock() {
+                var shown = document.getElementById('clock');
+                if (shown.style.display === 'none') {
+                    shown.style.display = 'block';
+                } else {
+                    shown.style.display = 'none';
+                }
+            }
+        </script>
     </head>
-    <body>
+    <body onload="startTime()">
         <div>TODO write content</div>
         <div>Second section</div>
         <p>This is a paragraph to demonstrate the use of paragraphs la dee dah</p>
         <div class="miguel">This is my other div</div>
+
+        <hr>
+        Things I like to drink
+        <ul>
+            <li>Coffee</li>
+            <li>Tea</li>
+            <li>Milk</li>
+        </ul>
+
+        <hr>
+        Things I actually like to drink
+        <ol>
+            <li>Water</li>
+            <li>Hot Chocolate
+                <ol type="a">
+                    <li>made with milk</li>
+                    <li>made with water</li>
+                </ol>
+            </li>
+        </ol>
+        <hr>
+
+        <input type="text" value="clickme" id="firstname"/>
+        <input type="button" value="clickme" onclick="alert('Hello ' + document.getElementById('firstname').value)"/>
+        
+        <div id="clock"></div>
+        <input type="button" value="hide clock" onclick="toggleClock()"/>
     </body>
 </html>
