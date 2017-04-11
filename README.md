@@ -94,12 +94,12 @@ We're hoping to pursue the following objectives in sequence.
 	* Browser
 	* Assignment
 		- Identify 5 GETs and 5 POSTs on the web
-- ** We're currently here **
 - Foundations of web pages - Hands On Lab
 	* Git repository
 	* Simple static HTML and CSS website
 	* Common tags: input, lines, paragraphs, divs, etc
 	* Real time clock in JavaScript
+- ** We're currently here **
 	* Assignment
 		- Demonstrate how to modify an existing website with browser developer tools
 
