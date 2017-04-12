@@ -102,6 +102,7 @@ We're hoping to pursue the following objectives in sequence.
 - ** We're currently here **
 	* Assignment
 		- Demonstrate how to modify an existing website with browser developer tools
+		- I changed a couple lines and removed the advertisements on this website: http://science.howstuffworks.com/question493.htm
 
 ### Objective 5: Web Site Development
 - Bootstrap website ( http://getbootstrap.com/ )
