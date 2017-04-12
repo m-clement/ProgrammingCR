@@ -33,3 +33,5 @@ POST:
 https://www.thurstonplayers.org/cast/cast?destination=node/74 is the cast login page, which requires username and password. Typing anything in this page reveals that post is used in the inspector
 https://store.steampowered.com/login/getrsakey/ This is an rsa key behind the scenes, and we don't know anything about it. Likely for security because the name suggests GET rsa key.
 https://store.steampowered.com/login/dologin/ is the account login page, which also requires a username and password. Typing into the two bars shows a post in the inspector.
+
+*I changed a couple lines and removed the advertisements on this website: http://science.howstuffworks.com/question493.htm
