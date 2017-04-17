@@ -99,7 +99,6 @@ We're hoping to pursue the following objectives in sequence.
 	* Simple static HTML and CSS website
 	* Common tags: input, lines, paragraphs, divs, etc
 	* Real time clock in JavaScript
-- ** We're currently here **
 	* Assignment
 		- Demonstrate how to modify an existing website with browser developer tools
 		- I changed a couple lines and removed the advertisements on this website: http://science.howstuffworks.com/question493.htm
@@ -107,7 +106,8 @@ We're hoping to pursue the following objectives in sequence.
 ### Objective 5: Web Site Development
 - Bootstrap website ( http://getbootstrap.com/ )
 	* Git repository
-	* Real time clock in JavaScript
+- ** We're currently here **
+	* modify site enough to understand framework
 - Simple ‘hello world’ website in Java
 	* Git repository and documentation
 	* HTML and CSS
