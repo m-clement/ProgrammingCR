@@ -106,9 +106,9 @@ We're hoping to pursue the following objectives in sequence.
 ### Objective 5: Web Site Development
 - Bootstrap website ( http://getbootstrap.com/ )
 	* Git repository
-- ** We're currently here **
 	* modify site enough to understand framework
 - Simple ‘hello world’ website in Java
+- ** We're currently here **
 	* Git repository and documentation
 	* HTML and CSS
 	* Write tests first: unit, integration, and live

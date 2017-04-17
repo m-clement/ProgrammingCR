@@ -5,7 +5,8 @@ References
 - XMPP ( http://apachefriends.org )
 
 ## Various things we've learned
-- tbd
+- bootstrap is a predefined web framework that helps us get started quickly
+- it also provides guardrails to prevent us against bad practices
 
 ## Assignement findings
 
