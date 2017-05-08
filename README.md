@@ -115,7 +115,6 @@ We're hoping to pursue the following objectives in sequence.
 		- Redo website with Bootstrap
 
 ### Objective 6: Server-Side Development
-- ** We're currently here **
 - Comparison of Computing Paradigms
 	* https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms 
 	* Structured
@@ -124,6 +123,7 @@ We're hoping to pursue the following objectives in sequence.
 	* Assignment 
 		- Find and critic some code on git
 - Simple ‘calculator’ website in Python
+- ** We're currently here **
 	* Git repository and documentation
 	* Object-oriented model
 	* HTML and CSS
