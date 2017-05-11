@@ -122,12 +122,12 @@ We're hoping to pursue the following objectives in sequence.
 	* Functional
 	* Assignment 
 		- Find and critic some code on git
-- Simple ‘calculator’ website in Python
-- ** We're currently here **
+- Simple ‘polls’ website in Python
 	* Git repository and documentation
 	* Object-oriented model
 	* HTML and CSS
 	* Write tests first: unit, integration, and live
+- ** We're currently here **
 	* Assignment
 		- Redo website with Bootstrap
 
