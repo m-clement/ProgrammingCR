@@ -122,7 +122,7 @@ We're hoping to pursue the following objectives in sequence.
 	* Functional
 	* Assignment 
 		- Find and critic some code on git
-- Simple ‘polls’ website in Python
+- Simple ‘polls’ website in Python and Django
 	* Git repository and documentation
 	* Object-oriented model
 	* HTML and CSS
@@ -133,14 +133,6 @@ We're hoping to pursue the following objectives in sequence.
 
 ### Objective 7: Complete Web Site Development
 Design and build websites
-
-- Simple ‘calculator’ website in Java
-	* Git repository and documentation
-	* Object-oriented model
-	* HTML and CSS
-	* Write tests first: unit, integration, and live
-	* Assignment
-		- Redo website with Bootstrap
 
 - Simple ‘notepad’ website in Java
 	* Git repository and documentation
