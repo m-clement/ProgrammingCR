@@ -127,12 +127,13 @@ We're hoping to pursue the following objectives in sequence.
 	* Object-oriented model
 	* HTML and CSS
 	* Write tests first: unit, integration, and live
-- ** We're currently here **
 	* Assignment
 		- Redo website with Bootstrap
 
 ### Objective 7: Complete Web Site Development
 Design and build websites
+
+- ** We're currently here **
 
 - Simple ‘notepad’ website in Java
 	* Git repository and documentation
